@@ -17,7 +17,7 @@ Pour lancer l'application, suivez les étapes ci-dessous :
 
 1.  **Cloner le dépôt :**
     ```bash
-    git clone [https://github.com/votre-nom-utilisateur/nom-du-depot.git](https://github.com/votre-nom-utilisateur/nom-du-depot.git)
+    git clone [https://https://github.com/ArisRoman/jeu-de-la-vie.git](https://github.com/ArisRoman/jeu-de-la-vie.git)
     cd nom-du-depot
     ```
 
@@ -37,10 +37,10 @@ L'application démarrera avec la configuration initiale. Il vous suffira ensuite
 
 ## 📝 Auteur
 
-**[Votre Nom]**
 
-* **GitHub** : [Lien vers votre profil GitHub]
-* **LinkedIn** : [Lien vers votre profil LinkedIn (optionnel)]
+
+* **Nom Complet** : German SONKOUE
+* **Email** : yimhelgerman@gmail.com
 
 ---
 
